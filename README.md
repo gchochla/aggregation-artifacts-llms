@@ -1,6 +1,6 @@
 # [NAACL'25] Aggregation Artifacts in Subjective Tasks Collapse Large Language Models' Posteriors
 
-This repo contains the official implementation of [Aggregation Artifacts in Subjective Tasks Collapse Large Language Models' Posteriors](https://arxiv.org/abs/2410.13776), published in the Proceedings of NAACL 2025.
+This repo contains the official implementation of "Aggregation Artifacts in Subjective Tasks Collapse Large Language Models' Posteriors" ([ACL](https://aclanthology.org/2025.naacl-long.284/#), [arXiv](https://arxiv.org/abs/2410.13776)), published in the Proceedings of NAACL 2025.
 
 ## Abstract
 
